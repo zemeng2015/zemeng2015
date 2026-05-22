@@ -1,9 +1,25 @@
-- 👋 Hi, I’m @zemeng2015
-- 👀 I’m interested in Dota2 (PC game), Bilibili and a big ACG fun
-- 🌱 I’m currently working at Fannie Mae as an AWS/Java Developer
-- 📫 How to reach me  my email is wangzemeng111222@gmail.com, welcome to reach out if you want to have further discuss
+# Hi, I'm Zemeng Wang
 
-<!---
-zemeng2015/zemeng2015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+AWS / Java developer interested in AI-assisted software engineering,
+backend systems, cloud infrastructure, and developer productivity tools.
+
+Currently building **JTestGen**, a coverage-guided AI system that generates
+Java unit tests with JaCoCo feedback, Maven validation, repair loops, and
+inspectable run artifacts.
+
+## Featured Work
+
+- [JTestGen](https://github.com/zemeng2015/JTestGen)  
+  Coverage-guided AI test generation for Java projects. Combines JaCoCo,
+  LLM prompting, Maven execution, repair loops, and deterministic evals.
+
+- [FreshSheet](https://github.com/zemeng2015/FreshSheetBackEnd)  
+  Receipt management tool with separate frontend and backend services.
+
+## Tech
+
+Java, Spring Boot, AWS, Python, React, Maven, CI/CD, LLM tooling
+
+## Contact
+
+wangzemeng111222@gmail.com
