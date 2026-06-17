@@ -6,24 +6,83 @@
 </p>
 
 <p align="center">
-  <a href="https://zemeng2015.github.io/zack-ai-homepage/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Enterprise_AI_Delivery-0f766e?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/zack-wang-profile"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Zack_Wang-2563eb?style=for-the-badge"></a>
-  <a href="mailto:zackwang.job@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge"></a>
+  <a href="https://zemeng2015.github.io/zack-ai-homepage/">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/zack-wang-profile">LinkedIn</a>
+  ·
+  <a href="mailto:zackwang.job@gmail.com">Email</a>
 </p>
 
 ---
 
-## AI Delivery, Not AI Theater
+<details open>
+<summary><strong>中文</strong></summary>
+
+## AI 落地，不是 AI 表演
 
 不止做聊天框。我做的是 AI 落地的控制层：数据从哪来、结果怎么评测、谁来审批、如何审计、怎样部署上线。
 
+我是 Zack Wang，10+ 年 Java、TypeScript、AWS、企业系统和全栈工程经验。现在聚焦 Applied AI / Enterprise AI Delivery：把 LLM、评测、审批、安全边界、AWS 数据系统和产品工作流组合成真正可部署、可演示、可持续迭代的系统。
+
+## 30 秒看懂我
+
+| 我能带来的能力 | 为什么重要 |
+| --- | --- |
+| 10+ 年企业软件工程经验 | 理解真实系统、发布压力、数据边界、线上支持和协作成本。 |
+| Java / TypeScript / AWS / 数据工作流 | 能把 AI 功能接进企业已有技术栈，而不是停留在孤立 Demo。 |
+| LLM 评测、可观测性、审批门禁 | 能设计可测试、可监控、可治理的 AI 系统。 |
+| 产品化项目探索 | 不只做实验，而是持续把项目推向真实可用的业务流程。 |
+
+## 项目地图
+
+| 项目 | 证明什么能力 | 链接 |
+| --- | --- | --- |
+| **JTestGen**<br>AI Java 单测生成与覆盖率修复 | JaCoCo 定位、JUnit/Mockito 生成、Maven 校验、失败修复循环、CI 友好产物。 | [Repo](https://github.com/zemeng2015/JTestGen) |
+| **LLM Eval Observability**<br>LLM 评测与可观测性 | Provider adapters、质量门禁、SQLite run history、可重复 AI 应用检查。 | [Repo](https://github.com/zemeng2015/llm-eval-observability) |
+| **AI ContentOps Studio**<br>AI 内容生产工作流 | 研究、生成、质量评分、人工审核、发布证据和部署配置的可追踪内容系统。 | [Repo](https://github.com/zemeng2015/ai-contentops-studio) |
+| **AI Commerce Copilot**<br>跨境电商 AI 运营助手 | 选品评分、供应商询价、内容草稿、人工审批、审计证据、本地/私有部署边界。 | [Portfolio](https://zemeng2015.github.io/zack-ai-homepage/#work) |
+| **Brand Publishing Pipeline**<br>技术品牌发布流水线 | 技术博客、短视频脚本、平台 metadata、审核门禁、安全发布交接。 | [Repo](https://github.com/zemeng2015/Zack-Brand-Publishing-Pipeline) |
+| **China Local Journey**<br>入境游获客产品 | 入境游英文获客站、行程规划、询价表单、产品化服务流程。 | [Live](https://china-local-journey.netlify.app/) |
+
+## 我的工程主线
+
+```text
+企业系统基础
+  Java / Spring Boot / TypeScript / Angular / React / SQL / CI/CD
+
+云与数据执行
+  AWS / S3 / Lambda / ECS / CloudWatch / RDS / DynamoDB / Athena-style analytics
+
+Applied AI 落地
+  LLM workflows / evals / quality gates / observability / approval systems
+
+产品判断
+  Private deployment / data safety / operator workflows / measurable demos
+```
+
+## 当前关注
+
+- 把 AI 系统做进真实业务工作流
+- 把 LLM Demo 变成可评测、可观测、有人类审批的应用
+- 为重视数据安全的业务方设计本地/私有 AI 工具
+- 用开源项目和内容持续展示实际 AI 工程能力
+
+</details>
+
+<details>
+<summary><strong>English</strong></summary>
+
+## AI Delivery, Not AI Theater
+
 Not another chatbot wrapper. I build the control plane around AI: data flow, evaluation, approval gates, observability, deployment, and the product surfaces people actually use.
+
+I am a senior full-stack/backend engineer moving deeply into applied AI delivery. My work focuses on the missing layer between AI demos and production systems: evaluation, observability, workflow design, approval gates, AWS-backed data flows, and deployable product surfaces.
 
 ## 30-Second Signal
 
 | What I bring | Why it matters |
 | --- | --- |
-| 10+ years in enterprise software | I understand real systems, release pressure, data boundaries, and production support. |
+| 10+ years in enterprise software | I understand real systems, release pressure, data boundaries, production support, and team coordination. |
 | Java, TypeScript, AWS, data workflows | I can connect AI features to existing enterprise stacks instead of leaving them as isolated demos. |
 | LLM evals, observability, approval gates | I design AI systems teams can test, monitor, and govern. |
 | Product-minded side projects | I build toward usable workflows, not just experiments. |
@@ -32,12 +91,12 @@ Not another chatbot wrapper. I build the control plane around AI: data flow, eva
 
 | System | What it proves | Link |
 | --- | --- | --- |
-| **JTestGen**<br>AI Java 单测生成与覆盖率修复 | Developer productivity system with JaCoCo targeting, JUnit/Mockito generation, Maven validation, repair loops, and CI-ready artifacts. | [Repo](https://github.com/zemeng2015/JTestGen) |
-| **LLM Eval Observability**<br>LLM 评测与可观测性 | Repeatable AI app checks with provider adapters, quality gates, SQLite run history, and evaluation-first engineering. | [Repo](https://github.com/zemeng2015/llm-eval-observability) |
-| **AI ContentOps Studio**<br>AI 内容生产工作流 | Traceable content operations: research, generation, quality scoring, human review, release evidence, and deployment config. | [Repo](https://github.com/zemeng2015/ai-contentops-studio) |
-| **AI Commerce Copilot**<br>跨境电商 AI 运营助手 | Business AI workflow design: product scoring, supplier quote loops, content drafts, approval gates, audit evidence, and private/local deployment boundaries. | [Portfolio](https://zemeng2015.github.io/zack-ai-homepage/#work) |
-| **Brand Publishing Pipeline**<br>技术品牌发布流水线 | Technical content ops for blogs, short-video scripts, platform metadata, review gates, and safe publishing handoff. | [Repo](https://github.com/zemeng2015/Zack-Brand-Publishing-Pipeline) |
-| **China Local Journey**<br>入境游获客产品 | A productized lead-generation website with trip pages, itinerary planning, quote forms, and business workflow thinking. | [Live](https://china-local-journey.netlify.app/) |
+| **JTestGen**<br>AI Java test generation | Developer productivity system with JaCoCo targeting, JUnit/Mockito generation, Maven validation, repair loops, and CI-ready artifacts. | [Repo](https://github.com/zemeng2015/JTestGen) |
+| **LLM Eval Observability**<br>LLM evaluation and observability | Repeatable AI app checks with provider adapters, quality gates, SQLite run history, and evaluation-first engineering. | [Repo](https://github.com/zemeng2015/llm-eval-observability) |
+| **AI ContentOps Studio**<br>AI content workflow | Traceable content operations: research, generation, quality scoring, human review, release evidence, and deployment config. | [Repo](https://github.com/zemeng2015/ai-contentops-studio) |
+| **AI Commerce Copilot**<br>Cross-border commerce AI assistant | Business AI workflow design: product scoring, supplier quote loops, content drafts, approval gates, audit evidence, and private/local deployment boundaries. | [Portfolio](https://zemeng2015.github.io/zack-ai-homepage/#work) |
+| **Brand Publishing Pipeline**<br>Technical brand publishing workflow | Technical content ops for blogs, short-video scripts, platform metadata, review gates, and safe publishing handoff. | [Repo](https://github.com/zemeng2015/Zack-Brand-Publishing-Pipeline) |
+| **China Local Journey**<br>Inbound travel lead-gen product | A productized lead-generation website with trip pages, itinerary planning, quote forms, and business workflow thinking. | [Live](https://china-local-journey.netlify.app/) |
 
 ## My Engineering Lane
 
@@ -62,17 +121,9 @@ Product judgment
 - Designing private/local AI tools for operators who care about data safety
 - Using content and open-source projects to show practical AI engineering depth
 
-## 中文简介
+</details>
 
-我是 Zack Wang，10+ 年 Java、TypeScript、AWS、企业系统和全栈工程经验。现在聚焦 Applied AI / Enterprise AI Delivery：把 LLM、评测、审批、安全边界、AWS 数据系统和产品工作流组合成真正可部署、可演示、可持续迭代的系统。
-
-我不想把 GitHub 做成技术栈清单，而是做成一组证据：这些项目展示我如何把 AI 从原型推进到业务敢试用的工程系统。
-
-## English Summary
-
-I am a senior full-stack/backend engineer moving deeply into applied AI delivery. My work focuses on the missing layer between AI demos and production systems: evaluation, observability, workflow design, approval gates, AWS-backed data flows, and deployable product surfaces.
-
-If you are looking for someone who can connect enterprise engineering discipline with practical AI product delivery, this is the work I am building in public.
+---
 
 ## Links
 
