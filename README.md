@@ -38,11 +38,11 @@
 | 项目 | 证明什么能力 | 链接 |
 | --- | --- | --- |
 | **JTestGen**<br>AI Java 单测生成与覆盖率修复 | JaCoCo 定位、JUnit/Mockito 生成、Maven 校验、失败修复循环、CI 友好产物。 | [Repo](https://github.com/zemeng2015/JTestGen) |
+| **DREAM**<br>团队知识与工程自动化记忆平台 | 把文档、代码结构、PR 记录、测试计划和 review 规则变成可检索、可引用、可评测的团队记忆。 | [Repo](https://github.com/zemeng2015/dream-ai-engineering-copilot) |
 | **LLM Eval Observability**<br>LLM 评测与可观测性 | Provider adapters、质量门禁、SQLite run history、可重复 AI 应用检查。 | [Repo](https://github.com/zemeng2015/llm-eval-observability) |
 | **AI ContentOps Studio**<br>AI 内容生产工作流 | 研究、生成、质量评分、人工审核、发布证据和部署配置的可追踪内容系统。 | [Repo](https://github.com/zemeng2015/ai-contentops-studio) |
 | **AI Commerce Copilot**<br>跨境电商 AI 运营助手 | 选品评分、供应商询价、内容草稿、人工审批、审计证据、本地/私有部署边界。 | [Portfolio](https://zemeng2015.github.io/zack-ai-homepage/#work) |
 | **Brand Publishing Pipeline**<br>技术品牌发布流水线 | 技术博客、短视频脚本、平台 metadata、审核门禁、安全发布交接。 | [Repo](https://github.com/zemeng2015/Zack-Brand-Publishing-Pipeline) |
-| **China Local Journey**<br>入境游获客产品 | 入境游英文获客站、行程规划、询价表单、产品化服务流程。 | [Live](https://china-local-journey.netlify.app/) |
 
 ## 我的工程主线
 
@@ -92,11 +92,11 @@ I am a senior full-stack/backend engineer moving deeply into applied AI delivery
 | System | What it proves | Link |
 | --- | --- | --- |
 | **JTestGen**<br>AI Java test generation | Developer productivity system with JaCoCo targeting, JUnit/Mockito generation, Maven validation, repair loops, and CI-ready artifacts. | [Repo](https://github.com/zemeng2015/JTestGen) |
+| **DREAM**<br>Source-backed team memory platform | Turns docs, code structure, PR notes, test plans, incidents, and review rules into retrievable, citeable, auditable team memory. | [Repo](https://github.com/zemeng2015/dream-ai-engineering-copilot) |
 | **LLM Eval Observability**<br>LLM evaluation and observability | Repeatable AI app checks with provider adapters, quality gates, SQLite run history, and evaluation-first engineering. | [Repo](https://github.com/zemeng2015/llm-eval-observability) |
 | **AI ContentOps Studio**<br>AI content workflow | Traceable content operations: research, generation, quality scoring, human review, release evidence, and deployment config. | [Repo](https://github.com/zemeng2015/ai-contentops-studio) |
 | **AI Commerce Copilot**<br>Cross-border commerce AI assistant | Business AI workflow design: product scoring, supplier quote loops, content drafts, approval gates, audit evidence, and private/local deployment boundaries. | [Portfolio](https://zemeng2015.github.io/zack-ai-homepage/#work) |
 | **Brand Publishing Pipeline**<br>Technical brand publishing workflow | Technical content ops for blogs, short-video scripts, platform metadata, review gates, and safe publishing handoff. | [Repo](https://github.com/zemeng2015/Zack-Brand-Publishing-Pipeline) |
-| **China Local Journey**<br>Inbound travel lead-gen product | A productized lead-generation website with trip pages, itinerary planning, quote forms, and business workflow thinking. | [Live](https://china-local-journey.netlify.app/) |
 
 ## My Engineering Lane
 
