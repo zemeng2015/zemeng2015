@@ -38,7 +38,7 @@
 | 项目 | 证明什么能力 | 链接 |
 | --- | --- | --- |
 | **JTestGen**<br>AI Java 单测生成与覆盖率修复 | JaCoCo 定位、JUnit/Mockito 生成、Maven 校验、失败修复循环、CI 友好产物。 | [Repo](https://github.com/zemeng2015/JTestGen) |
-| **DREAM**<br>团队知识与工程自动化记忆平台 | Memory packs、codebase index、Evidence Graph、Requirement Case、PR review、scorecard 和 SQLite audit trail，展示 source-backed AI 工程工作流。 | [Repo](https://github.com/zemeng2015/dream-ai-engineering-copilot) |
+| **DREAM**<br>团队知识与工程自动化记忆平台 | Memory packs、codebase index、Evidence Graph、governed memory distillation、Requirement Case、PR review、scorecard 和 SQLite audit trail，展示 source-backed AI 工程工作流。 | [Repo](https://github.com/zemeng2015/dream-ai-engineering-copilot) |
 | **Enterprise AI Engineering Orchestrator**<br>发布风险、测试建议与人工审批工作流 | 用仓库上下文、风险评分、测试建议、UiPath Test Manager proof、DynamoDB proof 和 human approval gate 展示可审计的企业工程 AI 编排。 | [Repo](https://github.com/zemeng2015/enterprise-ai-engineering-orchestrator) · [Demo](https://zemeng2015.github.io/enterprise-ai-engineering-orchestrator/) · [Proof](https://zemeng2015.github.io/enterprise-ai-engineering-orchestrator/submission-proof-index.json) |
 | **LLM Eval Observability**<br>LLM 评测与可观测性 | Provider adapters、质量门禁、SQLite run history、可重复 AI 应用检查。 | [Repo](https://github.com/zemeng2015/llm-eval-observability) |
 | **AI ContentOps Studio**<br>AI 内容生产工作流 | 研究、生成、质量评分、人工审核、发布证据和部署配置的可追踪内容系统。 | [Repo](https://github.com/zemeng2015/ai-contentops-studio) |
@@ -93,7 +93,7 @@ I am a senior full-stack/backend engineer moving deeply into applied AI delivery
 | System | What it proves | Link |
 | --- | --- | --- |
 | **JTestGen**<br>AI Java test generation | Developer productivity system with JaCoCo targeting, JUnit/Mockito generation, Maven validation, repair loops, and CI-ready artifacts. | [Repo](https://github.com/zemeng2015/JTestGen) |
-| **DREAM**<br>Source-backed team memory platform | Source-backed AI engineering workflows with memory packs, codebase indexes, Evidence Graph, Requirement Cases, PR review summaries, scorecards, and SQLite audit trails. | [Repo](https://github.com/zemeng2015/dream-ai-engineering-copilot) |
+| **DREAM**<br>Source-backed team memory platform | Source-backed AI engineering workflows with memory packs, codebase indexes, Evidence Graph, governed memory distillation, Requirement Cases, PR review summaries, scorecards, and SQLite audit trails. | [Repo](https://github.com/zemeng2015/dream-ai-engineering-copilot) |
 | **Enterprise AI Engineering Orchestrator**<br>Release-risk and approval workflow | Shows auditable engineering AI orchestration with repository context, risk scoring, test recommendations, UiPath Test Manager proof, DynamoDB proof, and human approval gates. | [Repo](https://github.com/zemeng2015/enterprise-ai-engineering-orchestrator) · [Demo](https://zemeng2015.github.io/enterprise-ai-engineering-orchestrator/) · [Proof](https://zemeng2015.github.io/enterprise-ai-engineering-orchestrator/submission-proof-index.json) |
 | **LLM Eval Observability**<br>LLM evaluation and observability | Repeatable AI app checks with provider adapters, quality gates, SQLite run history, and evaluation-first engineering. | [Repo](https://github.com/zemeng2015/llm-eval-observability) |
 | **AI ContentOps Studio**<br>AI content workflow | Traceable content operations: research, generation, quality scoring, human review, release evidence, and deployment config. | [Repo](https://github.com/zemeng2015/ai-contentops-studio) |
